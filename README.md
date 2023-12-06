@@ -44,4 +44,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 - Javier Pozo
-- Thanks to my Profesor Steve Kerby
+- Thanks to my professor Steve Kerby
