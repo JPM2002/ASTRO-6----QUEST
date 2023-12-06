@@ -1,14 +1,14 @@
-# Interactive Planetary Simulation in Pygame
+# 🌌 Interactive Planetary Simulation in Pygame
 
-## Introduction
+## 📚 Introduction
 This project is an interactive simulation of our solar system, developed in Python using the Pygame library. It is part of a QUEST initiative, aiming to blend educational concepts in astronomy with engaging simulation technology.
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 Before running the simulation, ensure you have Python installed on your system. Python 3.6 or higher is recommended. You can download Python from [here](https://www.python.org/downloads/).
 
-### Installation
+### ⚙️ Installation
 1. **Clone the Repository**
    - Clone this repository to your local machine using `git clone [repository-url]`.
 
@@ -23,25 +23,23 @@ Before running the simulation, ensure you have Python installed on your system. 
    - Install the following dependencies:
      ```sh
      pip install pygame
-     pip install math
-     pip install time
      ```
-     **Note:** You might need just to import math and time, but just in case I will leave the pip install
+     **Note:** The `math` and `time` modules are part of the Python Standard Library and do not require installation via pip.
 
-### Running the Simulation
+### 🌟 Running the Simulation
 - Run the simulation by executing `python main.py` from the root directory of the project.
 
-## Features
+## 💡 Features
 - Realistic planetary orbits simulation.
 - Interactive controls to adjust simulation parameters.
 - Educational insights into planetary motion and gravitational forces.
 
-## Contributing
+## 👥 Contributing
 Contributions to this project are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
+## ©️ License
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Acknowledgements
+## 🙏 Acknowledgements
 - Javier Pozo
-- Thanks to my professor Steve Kerby
+- Special thanks to my professor Steve Kerby
